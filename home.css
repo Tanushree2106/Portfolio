@@ -1,0 +1,190 @@
+.cc {
+    width: 10%;
+    margin-left: 3%;
+}
+
+.dd {
+    margin: 5%;
+    margin-left: 10%;
+}
+
+.ee {
+    display: flex;
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2016/03/29115235/Abstract-Plain-White-Wallpaper-.jpg);
+    padding: 4%;
+    margin-top: -3%;
+}
+
+
+.ff {
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.m {
+    margin-left: 100%;
+    font-weight: 500;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.i {
+    margin-left: 8%;
+    border-radius: 90%;
+    
+}
+
+@media (max-width:360px) {
+    .dd {
+        font-weight: 400;
+    }
+}
+
+.ig {
+    margin: 5%;
+}
+
+@media (max-width:460px) {
+    .i {
+        width: 50%;
+    }
+
+}
+
+.back {
+    background-color: #B6B3DB;
+    padding: 4%;
+}
+
+@media (max-width:460px) {
+    .tt{
+        width: 10%;
+    }
+    
+}
+.navbar-nav{
+    margin-left: 29%;
+}
+.edu2{
+    margin-left: 3%;
+}
+.edu1{
+    margin: 5%;
+    background-color: white;
+  
+}
+.E{
+    background-color: #EFF9F4;
+    padding: 2%;
+}
+.con{
+    margin-left: 25%;
+    margin-top: 2%;
+  
+}
+.con1{
+    margin-left: 5%;
+}
+.con3{
+    margin: 5%;
+    background-color: white;
+    padding: 2%;
+    
+}
+.con4{
+    background-color: lavender;
+    padding: 3%;
+}
+.input-width{
+    width: 23em;
+    border: 1px solid black;
+}
+.foot{
+    display: flex;
+    background-color:black ;
+    color: white;
+    padding: 3%;
+}
+.foot1{
+    margin-left:  5%;
+    margin-right: 5%;
+}
+.foot2{
+    margin-right: 4%;
+}
+.foot5{
+    background-color: grey;
+    color: white;
+    padding: 1%;
+}
+.ai{
+    border: 1px solid black;
+}
+
+
+@media (max-width:460px) {
+    .con3{
+        display: block !important;
+    }
+    .edu1{
+        display: block !important;
+    }
+    .edu3{
+        margin-bottom: 5%;
+    }
+    .edu3 img{
+        width: 335px;
+    }
+
+.con1 img{
+    width: 270px;
+}
+
+.con{
+    margin-left: 0px;
+}
+.input-width{
+    width: 17em;
+}
+.ii img{
+    width:500px ;
+}
+.tt{
+    width: 70px;
+}
+
+.w-100{
+    width: 150px !important;
+}
+.foot{
+    margin: 2%;
+}
+}
+@media (min-width:460px) and (max-width:780){
+    .w-100{
+        width: 700px;
+    }
+   .col{
+    display: flex;
+   }
+   .tt{
+    width:150px ;
+   }
+   .edu3 img{
+    width: 300px ;
+   }
+   .con3{
+    width: 20px;
+    margin: -6%;
+   }
+   .con1 img{
+    width: 200px;
+   }
+   .con1{
+    margin: -6%;
+   }
+   .con4{
+    margin: 0%;
+   }
+  
+}
